@@ -13,12 +13,18 @@
     font-style: italic;
 }
 
+@font-face {
+    font-family: "Calluna";
+    src: url("/assets/Calluna.woff"),
+         url("/assets/Calluna.ttf");
+}
+
 $max-width: 700px;
 $base-font-color: #444;
 
 #comments { display: none; }
 body {
-  font-family: "Sorts Mill Goudy", Georgia, Times, "Times New Roman", serif, "IPA明朝";
+  font-family: "Calluna", Georgia, Times, "Times New Roman", serif, "IPA明朝";
   font-size: 1.0em;
   color: #{$base-font-color};
   margin: 0px;
