@@ -55,7 +55,7 @@ Font Licensing
 
 The Calluna Regular font is used in this template. It can be freely licensed for @font-face use for unlimited page-views. Following is information about the font license used on [luketurner.org](http://luketurner.org). Use of this font on your own site requires (I believe) you to acquire your own license.
 
-  MyFonts Webfont Build ID 2622514, 2013-08-14T11:02:44-0400
+	MyFonts Webfont Build ID 2622514, 2013-08-14T11:02:44-0400
 
 	The fonts listed in this notice are subject to the End User License
 	Agreement(s) entered into by the website owner. All other parties are 
