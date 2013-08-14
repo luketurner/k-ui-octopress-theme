@@ -1,11 +1,24 @@
 /* -*- mode:css coding:utf-8 -*- */
 
+@font-face {
+    font-family: "Sorts Mill Goudy";
+    src: url("/assets/GoudyStM-webfont.woff"),
+         url("/assets/GoudyStM.otf");
+}
+
+@font-face {
+    font-family: "Sorts Mill Goudy";
+    src: url("/assets/GoudyStM-Italic-webfont.woff"),
+         url("/assets/GoudyStM-Italic.otf");
+    font-style: italic;
+}
+
 $max-width: 900px;
 $base-font-color: #444;
 
 #comments { display: none; }
 body {
-  font-family: "Hiragino Mincho ProN", Georgia, Times, "Times New Roman", serif, "IPA明朝";
+  font-family: "Sorts Mill Goudy", Georgia, Times, "Times New Roman", serif, "IPA明朝";
   font-size: 1.0em;
   color: #{$base-font-color};
   margin: 0px;
