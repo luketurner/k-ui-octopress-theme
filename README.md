@@ -1,4 +1,4 @@
-[Octopress](http://octopress.org/) Theme for [k-ui.jp](http://k-ui.jp/)
+[Octopress](http://octopress.org/) Theme based on [k-ui.jp](http://k-ui.jp/).
 
 Install
 ----------------------------------------------------------------
@@ -49,3 +49,26 @@ github_type: all
 github_sort: updated
 github_direction: desc
 ```
+
+Font Licensing
+------------------
+
+The Calluna Regular font is used in this template. It can be freely licensed for @font-face use for unlimited page-views. Following is information about the font license used on [luketurner.org](http://luketurner.org). Use of this font on your own site requires (I believe) you to acquire your own license.
+
+  MyFonts Webfont Build ID 2622514, 2013-08-14T11:02:44-0400
+
+	The fonts listed in this notice are subject to the End User License
+	Agreement(s) entered into by the website owner. All other parties are 
+	explicitly restricted from using the Licensed Webfonts(s).
+	
+	You may obtain a valid license at the URLs below.
+	
+	Webfont: Calluna Regular by exljbris
+	URL: http://www.myfonts.com/fonts/exljbris/calluna/regular/
+	Copyright: &#x00A9; 2009 exljbris Font Foundry. All rights reserved.
+	Licensed pageviews: Unlimited
+	
+	
+	License: http://www.myfonts.com/viewlicense?type=web&buildid=2622514
+	
+	© 2013 MyFonts Inc
