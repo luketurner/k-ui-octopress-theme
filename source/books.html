@@ -6,5 +6,11 @@ is_top: true
 <div id="top">
 
     <h2>Books</h2>
+    
+    <ul>
+    {% for book in site.booklist.read %}
+    <li>{{ book.finished_date }} - {{ book.title }} by {{ book.author }}     
+    {% endfor %}
+    </ul>
 
 </div>
