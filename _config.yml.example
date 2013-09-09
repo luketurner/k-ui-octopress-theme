@@ -101,7 +101,8 @@ facebook_like: false
 
 # Book list
 booklist:
-    -
-        title: "The Practice of System and Network Administration"
-        author: "Thomas Limoncelli et. al."
-        finished_date: "September 2013"
+    read:
+        -
+            title: "The Practice of System and Network Administration"
+            author: "Thomas Limoncelli et. al."
+            finished_date: "September 2013"
