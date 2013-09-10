@@ -101,6 +101,7 @@ facebook_like: false
 
 # Book list
 booklist:
+    url:
     read:
         -
             title: "The Practice of System and Network Administration"
