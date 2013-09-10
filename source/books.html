@@ -7,10 +7,12 @@ is_top: true
 
     <h2>Books</h2>
     
-    <ul>
-    {% for book in site.booklist.read %}
-    <li>{{ book.finished_date }} - {{ book.title }} by {{ book.author }}     
+    {% for month in site.booklist.read %}
+    <h4>{{ month[0] }}</h4>
+        <dl> {% for book in month[1] %}
+            <dt>{{ book.title }}</dt>
+            <dd>{{ book.author }}</dd>
+        {% endfor %} </dl>
     {% endfor %}
-    </ul>
 
 </div>
